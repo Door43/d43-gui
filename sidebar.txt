@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gui:home|Door43 (gui)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gui|d43-gui repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gui/archive/master.zip|d43-gui.zip]]
+
+**Recent Changes**
+{{changes>ns = gui}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gui|Ethnologue data]]
+
